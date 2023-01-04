@@ -1,7 +1,8 @@
 # Fullstack-App
 This is My First CRUD App with MySQL ExpressJs ReactJs NodeJs Stack 
 <br/>
-to clone my repository use this command
+<br/>
+# To Clone My Repository Use This Command
 <pre>
-git 
+git https://github.com/FadilRifqi/Fullstack-App.git
 </pre>
